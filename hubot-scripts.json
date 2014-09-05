@@ -1,1 +1,18 @@
-["redis-brain.coffee", "shipit.coffee", "poem.coffee", "excuse.coffee"]
+[
+  "redis-brain.coffee",
+  "shipit.coffee",
+  "excuse.coffee",
+  "beerme.coffee",
+  "commitmessage.coffee",
+  "facepalm.coffee",
+  "google.coffee",
+  "haters.coffee",
+  "heroku-status.coffee",
+  "howdoi.coffee",
+  "illogical.coffee",
+  "invalid.coffee",
+  "npm.coffee",
+  "pinkman.coffee",
+  "rajinikanth.coffee",
+  "reddit-jokes.coffee"
+]
