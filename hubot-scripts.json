@@ -21,5 +21,8 @@
   "wits.coffee",
   "working-on.coffee",
   "yoda-pictures.coffee",
-  "zen.coffee"
+  "zen.coffee",
+  "doer_of_deeds.coffee",
+	"github-search.coffee",
+  "reload.coffee",
 ]
